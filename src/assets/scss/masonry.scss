@@ -1,0 +1,23 @@
+.masonry {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  &__image-wrapper {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    padding-bottom: 100%;
+    border-radius: 8px;
+  }
+  &__image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-position: center;
+    object-fit: cover;
+  }
+}
