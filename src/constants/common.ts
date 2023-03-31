@@ -1,11 +1,11 @@
-export const imagesConst = Object.freeze([
+export const imagesConst = [
   "https://cdn.ascgroup.ru/news_media/13099/ACH02568.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH02578.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH02602.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH02671.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH02674.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH02715.jpg",
-  /* "https://cdn.ascgroup.ru/news_media/13099/ACH02759.jpg",
+  "https://cdn.ascgroup.ru/news_media/13099/ACH02759.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH02838.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH02907.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH02923.jpg",
@@ -30,5 +30,5 @@ export const imagesConst = Object.freeze([
   "https://cdn.ascgroup.ru/news_media/13099/ACH03777.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH03813.jpg",
   "https://cdn.ascgroup.ru/news_media/13099/ACH03910.jpg",
-  "https://cdn.ascgroup.ru/news_media/13099/ACH04011.jpg", */
-]);
+  "https://cdn.ascgroup.ru/news_media/13099/ACH04011.jpg",
+];
